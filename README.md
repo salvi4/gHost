@@ -11,7 +11,7 @@ In this project I'll use:
 The main goal of this project is to communicate the data fetched from Arduino to Firebase realtime database, serial communicating this data to the ESP01 module.
 
 Mandatory passage:
-I flashed the ESP01's firmware in order to serial communicate with Arduino with a baud rate of 9600.
+Flash the ESP01's firmware in order to serial communicate with Arduino with a baud rate of 9600. (You can use this tutorial: https://www.youtube.com/watch?v=Ag_Yk_0AFxs)
 Create the database.
 
 Using:
