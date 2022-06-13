@@ -22,6 +22,7 @@ Using:
   - Arduino JSON Library. Version 5.13.5 (https://arduinojson.org/v6/doc/installation/)
   - DHT sensor Library. Version 1.4.3 (https://github.com/adafruit/DHT-sensor-library)
   - Firebase Arduino Client Library for ESP8266 and ESP32. Version 2.3.7 (https://github.com/mobizt/Firebase-ESP-Client)
+    - Commented all the libraries except for the real-time one in the FirebaseFS.h file.
   - ESP8266WiFi Library 
 - Database:
   - Realtime database with rules settled: only auth user can read/write on the db
